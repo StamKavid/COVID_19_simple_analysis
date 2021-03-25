@@ -1,7 +1,25 @@
-# COVID-19 Forecasting
-In this project you will find Covid-19 cases prediction for the next 30 days, using Facebook Prophet model.
+# COVID-19 Forecasting: Project Overview
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+In this project you will find Covid-19 cases prediction for the next 30 days, using Facebook Prophet model. More specifically:
+* Visualization of daily COVID-19 cases (Globally & **Greece**)
+* Visualization of daily COVID-19 death cases (Globally & **Greece**)
+* Geographical visualization (Globally)
+* COVID-19 Cases prediction for next 30 days (Globally & **Greece**)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Resources used
+
+**Python Version:** 3.7
+
+**Fbprophet Version:** 0.6
+
+**Pystan Version:** 2.19
+
+**Packages:** numpy, pandas, matplotlib, plotly, sklearn
+
+**Fbprophet article:** https://medium.com/tokopedia-data/hacking-time-series-forecasting-like-a-pro-with-fbprophet-76f276f0a058#:~:text=What%20is%20FBProphet%3F,x)%20%2B%20e(t)
+
 
 # Time-Series Forecasting
 
