@@ -48,8 +48,11 @@ It’s a tool intended to help you to do time series forecasting at a scale with
 where,
 
 g(x) is a trend function which models the non-periodic changes. It can be either a linear function or a logistic function.
+
 s(x) represents a periodic changes i.e weekly, monthly, yearly. A yearly seasonal component is modeled using Fourier series and weekly seasonal component using dummy variables.
+
 h(x) is a function that represents the effect of holidays which occur on irregular schedules.(n ≥ 1 days)
+
 e(x) represents error changes that are not accommodated by the model.
 
 ## Visualizations
