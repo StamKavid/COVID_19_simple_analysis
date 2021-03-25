@@ -54,6 +54,10 @@ e(x) represents error changes that are not accommodated by the model.
 
 ## Visualizations
 
+![](https://github.com/StamKavid/COVID_19_simple_analysis/blob/main/Images/Daily%20COVID-19%20Cases%20(Globally).png)
 
+![](https://github.com/StamKavid/COVID_19_simple_analysis/blob/main/Images/Daily%20COVID-19%20Cases%20(Greece).png)
+
+![](https://github.com/StamKavid/COVID_19_simple_analysis/blob/main/Images/Forecasting%20Cases%20for%20Next%2030%20days%20(Globally).png)
 
 
