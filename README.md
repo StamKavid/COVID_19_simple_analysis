@@ -20,6 +20,7 @@ In this project you will find Covid-19 cases prediction for the next 30 days, us
 
 **Fbprophet article:** https://medium.com/tokopedia-data/hacking-time-series-forecasting-like-a-pro-with-fbprophet-76f276f0a058#:~:text=What%20is%20FBProphet%3F,x)%20%2B%20e(t)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Time-Series Forecasting
 
@@ -32,7 +33,7 @@ Time-series forecast itself is one of the methods to create a model for predicti
 3. **Cyclic**: a cyclic pattern exists when the data experience rises or falls (regular or periodic fluctuation in data)
 4. **Irregularity**: the residual of time series after the trend-cycle and seasonal component are removed
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Facebook Prophet
 
