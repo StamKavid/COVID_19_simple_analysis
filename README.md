@@ -20,6 +20,8 @@ In this project you will find Covid-19 cases prediction for the next 30 days, us
 
 **Fbprophet article:** https://medium.com/tokopedia-data/hacking-time-series-forecasting-like-a-pro-with-fbprophet-76f276f0a058#:~:text=What%20is%20FBProphet%3F,x)%20%2B%20e(t)
 
+**Fbprophet tutorial:** https://facebook.github.io/prophet/docs/quick_start.html#python-api
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Time-Series Forecasting
