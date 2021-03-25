@@ -1,4 +1,4 @@
-# COVID_19_simple_analysis
+# COVID-19 Forecasting
 In this project you will find Covid-19 cases prediction for the next 30 days, using Facebook Prophet model.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
