@@ -18,11 +18,11 @@ In this project you will find Covid-19 cases prediction for the next 30 days, us
 
 **Packages:** numpy, pandas, matplotlib, plotly, sklearn
 
-**Fbprophet article:** https://medium.com/tokopedia-data/hacking-time-series-forecasting-like-a-pro-with-fbprophet-76f276f0a058#:~:text=What%20is%20FBProphet%3F,x)%20%2B%20e(t)
+**Fbprophet article:** https://bit.ly/39gfmei
 
-**Fbprophet tutorial:** https://facebook.github.io/prophet/docs/quick_start.html#python-api
+**Fbprophet tutorial:** https://bit.ly/3rpj3EF
 
-**Paper for Fbprophet:** https://peerj.com/preprints/3190.pdf#section.1
+**Paper for Fbprophet:** https://bit.ly/3lPh4Iy
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -47,13 +47,13 @@ It’s a tool intended to help you to do time series forecasting at a scale with
 
 where,
 
-g(x) is a trend function which models the non-periodic changes. It can be either a linear function or a logistic function.
+**g(x)** is a trend function which models the non-periodic changes. It can be either a linear function or a logistic function.
 
-s(x) represents a periodic changes i.e weekly, monthly, yearly. A yearly seasonal component is modeled using Fourier series and weekly seasonal component using dummy variables.
+**s(x)** represents a periodic changes i.e weekly, monthly, yearly. A yearly seasonal component is modeled using Fourier series and weekly seasonal component using dummy variables.
 
-h(x) is a function that represents the effect of holidays which occur on irregular schedules.(n ≥ 1 days)
+**h(x)** is a function that represents the effect of holidays which occur on irregular schedules.(n ≥ 1 days)
 
-e(x) represents error changes that are not accommodated by the model.
+**e(x)** represents error changes that are not accommodated by the model.
 
 ## Visualizations
 
