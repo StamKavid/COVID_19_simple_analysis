@@ -22,9 +22,11 @@ In this project you will find Covid-19 cases prediction for the next 30 days, us
 
 **Fbprophet tutorial:** https://facebook.github.io/prophet/docs/quick_start.html#python-api
 
+**Paper for Fbprophet:** https://peerj.com/preprints/3190.pdf#section.1
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Time-Series Forecasting
+## Time-Series Forecasting
 
 The purpose of time series analysis is generally twofold: to understand or model the stochastic mechanisms that gives rise to an observed series and to predict or forecast the future values of a series based on the history of that series
 
@@ -37,7 +39,7 @@ Time-series forecast itself is one of the methods to create a model for predicti
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Facebook Prophet
+## Facebook Prophet
 
 It’s a tool intended to help you to do time series forecasting at a scale with ease. It uses decomposable time series model with 3 main components: **seasonal**, **trends**, **holidays** or **events** effect and error which are combined into this equation:
 
@@ -50,5 +52,8 @@ s(x) represents a periodic changes i.e weekly, monthly, yearly. A yearly seasona
 h(x) is a function that represents the effect of holidays which occur on irregular schedules.(n ≥ 1 days)
 e(x) represents error changes that are not accommodated by the model.
 
-Here you can find the paper for Facebook prophet: https://peerj.com/preprints/3190.pdf#section.1
-Here you can find the GIT page of FBProphet: https://github.com/facebook/prophet
+## Visualizations
+
+
+
+
