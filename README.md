@@ -59,8 +59,16 @@ where,
 
 ![](https://github.com/StamKavid/COVID_19_simple_analysis/blob/main/Images/Daily%20COVID-19%20Cases%20(Globally).png)
 
+**Figure 1.1:** Daily COVID-19 cases (Globally)
+
 ![](https://github.com/StamKavid/COVID_19_simple_analysis/blob/main/Images/Daily%20COVID-19%20Cases%20(Greece).png)
 
-![](https://github.com/StamKavid/COVID_19_simple_analysis/blob/main/Images/Forecasting%20Cases%20for%20Next%2030%20days%20(Globally).png)
+**Figure 1.2:** Daily COVID-19 cases (Greece)
 
+![](https://github.com/StamKavid/COVID_19_simple_analysis/blob/main/Images/COVID-19%20prediction%20(Greece).png)
+
+**Figure 1.3:** Daily COVID-19 prediction cases (Greece)
+
+
+Prophet plots the observed values of time series (black dots), the forecasted values (blue lines) and the uncertainty intervals of our forecasts (blue shaded region).
 
